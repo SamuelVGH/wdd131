@@ -1,0 +1,27 @@
+body {
+    display: grid;
+    grid-template: auto auto auto / 1fr;
+    background-color: #c2db68;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-around; 
+    background-color: #dd4242;
+    padding: 20px;
+}   
+header {
+    background-color: #7d9fdd;
+    padding: 20px;
+    text-align: center;
+}
+main {
+    background-color: #f2f2f2;
+    padding: 20px;
+}   
+footer {
+    background-color: #7d9fdd;
+    padding: 20px;
+    text-align: center;
+}   
